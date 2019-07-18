@@ -1,5 +1,5 @@
 <?php
-
+// Всем приветик
  $title = 'главная страница';
  include $_SERVER['DOCUMENT_ROOT'] . '/modules/head.php';
  include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php';
